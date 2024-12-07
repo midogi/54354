@@ -2,5 +2,9 @@ Initial file
 Add B changes
 Add C changes
 Add D changes
+<<<<<<< HEAD
 Add E changes
 Add F changes
+=======
+Add G changes
+>>>>>>> master
